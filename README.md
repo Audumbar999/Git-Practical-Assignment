@@ -1,17 +1,13 @@
 **Project title** = **Git Practical**  
 Student name = Audumbar Haldankar  
 Roll number = 25P0051005  
-<<<<<<< HEAD
-Class = MScI Ds 2nd Yr   
-=======
-Class = MScI Ds 2nd Yr 
->>>>>>> c865d6e (Update README file)
+Class = MScI Ds 2nd Yr    
 GitHub username = Audumbar999  
 Purpose of the repository = Test  
 ## Objectives
 - Understand local version control using Git.
 - Link local repositories to remote GitHub repositories.
-
+- Perform staging, committing, pushing, and cloning operations.
 ## Git Commands Learned
 - `git init`
 - `git config`
@@ -22,8 +18,4 @@ Purpose of the repository = Test
 - `git remote`
 - `git push`
 - `git clone`
-<<<<<<< HEAD
 - `git diff`
-=======
-- `git diff`
->>>>>>> c865d6e (Update README file)
