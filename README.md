@@ -11,7 +11,6 @@ Purpose of the repository = Test
 ## Objectives
 - Understand local version control using Git.
 - Link local repositories to remote GitHub repositories.
-- Perform staging, committing, pushing, and cloning operations.
 
 ## Git Commands Learned
 - `git init`
